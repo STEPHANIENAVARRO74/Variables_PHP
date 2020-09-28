@@ -8,7 +8,7 @@ echo $isLookMovie;
 $filmRelease = 1989 ;
 echo PHP_EOL;
 echo $filmRelease;
-$filmRating = 5 ;
+$filmRating = 8,2 ;
 echo PHP_EOL;
 echo $filmRating;
 
