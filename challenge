@@ -1,0 +1,20 @@
+<?php
+$movie = 'Indiana Jones and the last crusade';
+echo PHP_EOL;
+echo $movie;
+$isLookMovie = true ;
+echo PHP_EOL;
+echo $isLookMovie;
+$filmRelease = 1989 ;
+echo PHP_EOL;
+echo $filmRelease;
+$filmRating = 5 ;
+echo PHP_EOL;
+echo $filmRating;
+
+
+
+Indiana Jones and the last crusade
+1
+1989
+5wilder@wilder-ThinkPad-T440p:~/PhpstormProjects/untitled1$
